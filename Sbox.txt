@@ -65,7 +65,7 @@ string Xor(string a, string b){
 	return result; 
 } 
 void generate_keys(string key){
-	// The PC1 table
+	
 	int pc1[56] = {
 	57,49,41,33,25,17,9, 
 	1,58,50,42,34,26,18, 
